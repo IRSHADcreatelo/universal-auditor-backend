@@ -1,6 +1,10 @@
 Flask
-instaloader==4.10
+flask-cors
+python-dotenv
 requests
+instaloader==4.10
+google-generativeai
+beautifulsoup4
 grpcio==1.56.0
 protobuf
 gunicorn
