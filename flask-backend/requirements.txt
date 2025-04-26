@@ -1,10 +1,10 @@
-Flask
-flask-cors
-python-dotenv
-requests
+Flask==3.1.0
+flask-cors==5.0.0
+python-dotenv==1.0.1
+requests==2.31.0
 instaloader==4.10
-google-generativeai
-beautifulsoup4
+google-generativeai>=0.2.0  # Replace with the actual version if known
+beautifulsoup4==4.12.3
 grpcio==1.56.0
-protobuf
-gunicorn
+protobuf>=4.23.0  # You can pin to a specific version if needed
+gunicorn>=20.1.0  # Commonly used version, adjust as needed
