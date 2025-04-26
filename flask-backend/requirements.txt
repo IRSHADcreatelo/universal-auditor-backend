@@ -1,0 +1,6 @@
+Flask
+instaloader==4.10
+requests
+grpcio==1.56.0
+protobuf
+gunicorn
